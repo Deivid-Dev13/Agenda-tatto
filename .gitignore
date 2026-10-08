@@ -1,0 +1,6 @@
+node_modules/
+.vercel/
+.DS_Store
+# NUNCA versionar chaves secretas (service_role etc.). A chave "anon public" em config.js é pública por desenho.
+.env
+.env.local

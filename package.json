@@ -1,0 +1,11 @@
+{
+  "name": "ferreira-tattoo",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Ferreira Tattoo — agenda e financeiro (HTML estático + Supabase)",
+  "scripts": {
+    "test": "node tests/e2e.js",
+    "build": "echo \"Projeto estatico: nenhuma etapa de build necessaria.\""
+  },
+  "engines": { "node": ">=18" }
+}
